@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">stereoscopicDisplay</string>
+    <string name="radio_rand">Random</string>
+    <string name="radio_stereo">Stereogram</string>
+    <string name="radio_lr">Left+Right</string>
+    <string name="radio_ana">Anaglyph</string>
+</resources>
